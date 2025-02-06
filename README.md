@@ -1,8 +1,6 @@
 # CCNA v7
 
 ```sh
-Septiembre 2020
-Author: rhodfra@gmail.com
 Apuntes de curso de de redes
 packettracer v7.3
 ```
