@@ -1,4 +1,4 @@
-# CCNA v7
+# Redes 2024-2025
 
 ```sh
 Apuntes de curso de de redes
